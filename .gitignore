@@ -1,3 +1,6 @@
 node_modules/
 logs/
 *.log
+client/received.jpg
+client/logs/
+server/logs/
